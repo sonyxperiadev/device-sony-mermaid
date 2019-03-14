@@ -21,7 +21,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.telephony.default_network=9,0
 
 # Inherit from those products. Most specific first.
-$(call inherit-product, device/sony/mermaid/aosp_h3213.mk)
+$(call inherit-product, device/sony/mermaid/aosp_i3213.mk)
 
 PRODUCT_NAME := aosp_i4213
 PRODUCT_DEVICE := mermaid
