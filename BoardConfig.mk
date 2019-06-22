@@ -27,9 +27,6 @@ endif
 # Platform
 PRODUCT_PLATFORM := ganges
 
-# NFC
-NXP_CHIP_FW_TYPE := PN553
-
 BOARD_KERNEL_CMDLINE += androidboot.hardware=mermaid
 
 # Partition information
