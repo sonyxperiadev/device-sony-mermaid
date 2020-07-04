@@ -5,6 +5,7 @@
     <ActuatorName>lc898219xi</ActuatorName>
     <FlashName>pmic</FlashName>
     <ChromatixName>imx486_chromatix</ChromatixName>
+    <I2CFrequencyMode>FAST_PLUS</I2CFrequencyMode>
     <ModesSupported>1</ModesSupported>
     <Position>BACK</Position>
     <MountAngle>90</MountAngle>
@@ -29,6 +30,7 @@
     <ActuatorName>lc898214xc</ActuatorName>
     <FlashName>pmic</FlashName>
     <ChromatixName>s5k4h8_chromatix</ChromatixName>
+    <I2CFrequencyMode>FAST_PLUS</I2CFrequencyMode>
     <ModesSupported>1</ModesSupported>
     <Position>BACK</Position>
     <MountAngle>90</MountAngle>
@@ -51,6 +53,7 @@
     <CameraId>2</CameraId>
     <SensorName>s5k4h7yx</SensorName>
     <ChromatixName>s5k4h7yx_chromatix</ChromatixName>
+    <I2CFrequencyMode>FAST_PLUS</I2CFrequencyMode>
     <ModesSupported>1</ModesSupported>
     <Position>FRONT</Position>
     <MountAngle>270</MountAngle>
