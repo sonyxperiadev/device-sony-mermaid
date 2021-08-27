@@ -32,7 +32,7 @@
     <ChromatixName>s5k4h8_chromatix</ChromatixName>
     <I2CFrequencyMode>FAST_PLUS</I2CFrequencyMode>
     <ModesSupported>1</ModesSupported>
-    <Position>BACK</Position>
+    <Position>BACK_AUX</Position>
     <MountAngle>90</MountAngle>
     <CSIInfo>
       <CSIDCore>2</CSIDCore>
