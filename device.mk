@@ -62,6 +62,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/vendor/firmware/bdwlan.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/bdwlan.bin
 
+# Novatek TS Firmware
+PRODUCT_COPY_FILES += \
+    $(DEVICE_PATH)/vendor/firmware/SM23_TM_08_PID5404.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/SM23_TM_08_PID5404.bin
+
 # Device Init
 PRODUCT_PACKAGES += \
     fstab.mermaid \
